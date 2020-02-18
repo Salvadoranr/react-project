@@ -6,7 +6,6 @@ import NotFound from '../containers/NotFound';
 const Player = props => {
   const { id } = props.match.params;
   const hasPlaying = Object.keys(props.playing).length > 0;
-  console.log(props)
   useEffect(() => {
     props.getMusicSource(id);
   }, []);

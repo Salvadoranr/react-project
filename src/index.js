@@ -13,77 +13,77 @@ const initialState = {
     "trends": [
         {
             "id": 2,
-            "title": "Let it be",
-            "type": "pop",
+            "title": "High hopes",
+            "type": "pop-rock",
             "language": "English",
-            "year": 1968,
-            "cover": "https://images-na.ssl-images-amazon.com/images/I/51F-JrWga3L._SY355_.jpg",
-            "source": "https://www.youtube.com/embed/QDYfEBY9NM4"
+            "year": 2018,
+            "cover": "http://naciongrita.com.mx/wp-content/uploads/2018/03/PATD.jpg",
+            "source": "https://www.youtube.com/embed/IPXIgEAGe4U"
         },
         {
             "id": 3,
-            "title": "Let it be",
-            "type": "pop",
+            "title": "Memories", 
+            "type": "pop", 
             "language": "English",
-            "year": 1968,
+            "year": 2019, 
             "cover": "http://dummyimage.com/800x600.png/99118E/ffffff",
-            "source": "https://www.youtube.com/embed/QDYfEBY9NM4"
+            "source": "https://www.youtube.com/embed/SlPhMPnQ58k"
         },
         {
             "id": 4,
-            "title": "Let it be",
+            "title": "Don't Start Now",
             "type": "pop",
             "language": "English",
-            "year": 1968,
+            "year": 2019,
             "cover": "http://dummyimage.com/800x600.png/99118E/ffffff",
-            "source": "https://www.youtube.com/embed/QDYfEBY9NM4"
+            "source": "https://www.youtube.com/embed/oygrmJFKYZY"
         },
         {
             "id": 5,
-            "title": "Let it be",
+            "title": "Yummy",
             "type": "pop",
             "language": "English",
-            "year": 1968,
+            "year": 2020,
             "cover": "http://dummyimage.com/800x600.png/99118E/ffffff",
-            "source": "https://www.youtube.com/embed/QDYfEBY9NM4"
+            "source": "https://www.youtube.com/embed/8EJ3zbKTWQ8"
         },
     ],
     "originals": [
         {
             "id": 6,
-            "title": "Let it be",
+            "title": "Put it all on me",
             "type": "pop",
             "language": "English",
-            "year": 1968,
-            "cover": "https://images-na.ssl-images-amazon.com/images/I/51F-JrWga3L._SY355_.jpg",
-            "source": "https://www.youtube.com/embed/QDYfEBY9NM4"
+            "year": 2019,
+            "cover": "http://dummyimage.com/800x600.png/99118E/ffffff",
+            "source": "https://www.youtube.com/embed/ryJgDL9jzKk"
         },
         {
             "id": 7,
-            "title": "Let it be",
+            "title": "Tutu",
             "type": "pop",
             "language": "English",
-            "year": 1968,
+            "year": 2019,
             "cover": "http://dummyimage.com/800x600.png/5472FF/ffffff",
-            "source": "https://www.youtube.com/embed/QDYfEBY9NM4"
+            "source": "https://www.youtube.com/embed/5AkDqm-cEgg"
         },
         {
             "id": 8,
-            "title": "Let it be",
+            "title": "Through it all",
             "type": "pop",
             "language": "English",
-            "year": 1968,
+            "year": 2018,
             "cover": "http://dummyimage.com/800x600.png/5472FF/ffffff",
-            "source": "https://www.youtube.com/embed/QDYfEBY9NM4"
+            "source": "https://www.youtube.com/embed/t62zPl44H4I"
         },
         {
             "id": 9,
-            "title": "Let it be",
+            "title": "I'ts my life",
             "type": "pop",
             "language": "English",
-            "year": 1968,
+            "year": 2000,
             "cover": "http://dummyimage.com/800x600.png/5472FF/ffffff",
-            "source": "https://www.youtube.com/embed/QDYfEBY9NM4"
+            "source": "https://www.youtube.com/embed/vx2u5uUu3DE"
         },
     ]
 }
